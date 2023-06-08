@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/boxOffice-app/static/js/main.c7ef9810.js",
+    "static/js/787.6e354c4d.chunk.js": "/boxOffice-app/static/js/787.6e354c4d.chunk.js",
+    "service-worker.js": "/boxOffice-app/service-worker.js",
+    "index.html": "/boxOffice-app/index.html",
+    "main.c7ef9810.js.map": "/boxOffice-app/static/js/main.c7ef9810.js.map",
+    "787.6e354c4d.chunk.js.map": "/boxOffice-app/static/js/787.6e354c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c7ef9810.js"
+  ]
+}
